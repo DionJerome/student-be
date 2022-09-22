@@ -24,7 +24,7 @@ Explaining the concepts more in-depth, that were used in this application
 * [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 
 ### Additional Links
-I followed this course for building this application:
+I followed this course for building the backend of this application:
 
 The tutorial and course listed below uses **Maven** for dependency injection
 
