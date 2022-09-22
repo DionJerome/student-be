@@ -1,8 +1,7 @@
 # Getting Started
 
 ### Set-up
-Java version **8** or better\
-Deciding to use **Maven** or **Gradle** for dependencies injection\
+Java version **8** or greater\
 This application uses **Gradle**
 
 ### Reference Documentation
